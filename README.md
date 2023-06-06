@@ -1,4 +1,4 @@
-# ¡Hola!, soy  👋 
+# ¡Hola! 👋 
 #### Soy Samuel Bocanegra, desarrollador apasionado por la tecnología, la programación, el desarrollo Web, la innovación y la idea de convertir ideas en productos finales que impacten positivamente la calidad de vida de las personas. Me especializo en el desarrollo web y tengo experiencia en varias tecnologías y frameworks. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
 #
 ### Tecnologías
