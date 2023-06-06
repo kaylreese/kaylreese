@@ -1,6 +1,6 @@
 # ¡Hola! 👋 
 
-#### Soy Samuel Bocanegra, un apasionado por la tecnología, la programación, el desarrollo Web, la innovación y la idea de convertir ideas en productos finales que impacten positivamente la calidad de vida de las personas. Me especializo en el desarrollo web y tengo experiencia en varias tecnologías y frameworks. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
+#### Soy Samuel Bocanegra, desarrollador apasionado por la tecnología, la programación, el desarrollo Web, la innovación y la idea de convertir ideas en productos finales que impacten positivamente la calidad de vida de las personas. Me especializo en el desarrollo web y tengo experiencia en varias tecnologías y frameworks. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
 #
 ### Habilidades
 - ![HTML](https://camo.githubusercontent.com/a3cfc2277b8d45612dbe8c1777569a6e151138d0a7ec5069ef44ef4212083e89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d464146414641) : Experiencia en la creación de estructuras y contenido semántico para páginas web.
