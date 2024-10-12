@@ -43,8 +43,19 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![Putty](https://img.shields.io/badge/-Putty-02569B?style=flat&logo=putty&logoColor=white)
 
+### 📦 Paqueterías y Dependencias
+![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+
 ### Agile
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+
+### 💻 Sistemas Operativos
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-33AADD?style=flat&logo=parrot&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ## Habilidades:
 - Metodología | Scrum.
