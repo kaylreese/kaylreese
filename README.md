@@ -61,6 +61,9 @@
 - Metodología | Scrum.
 - Project Management | Slack & Trello.
 
+## Learning Management System (LMS)
+- ![Moodle](https://simpleicons.org/icons/moodle.svg)
+
 ## Proyecto destacado:
 
 - [x] [PropTech](https://github.com/HenryAzz/proyectonuevo) Proyecto Final Henry
