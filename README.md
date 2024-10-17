@@ -61,8 +61,8 @@
 - Metodología | Scrum.
 - Project Management | Slack & Trello.
 
-## Learning Management System (LMS)
-- ![Moodle](https://simpleicons.org/icons/moodle.svg)
+### 📚 LMS
+- ![Moodle](https://img.shields.io/badge/-Moodle-F98400?style=flat&logo=moodle&logoColor=white)
 
 ## Proyecto destacado:
 
