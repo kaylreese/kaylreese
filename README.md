@@ -57,12 +57,12 @@
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-33AADD?style=flat&logo=parrot&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
+### 📚 LMS
+- ![Moodle](https://img.shields.io/badge/-Moodle-F98400?style=flat&logo=moodle&logoColor=white)
+
 ## Habilidades:
 - Metodología | Scrum.
 - Project Management | Slack & Trello.
-
-### 📚 LMS
-- ![Moodle](https://img.shields.io/badge/-Moodle-F98400?style=flat&logo=moodle&logoColor=white)
 
 ## Proyecto destacado:
 
