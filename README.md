@@ -1,5 +1,5 @@
 # ¡Hola! 👋 
-#### Soy Samuel Bocanegra, Ingeniero de Sistemas e Informático con más de 5 años de experiencia como FullStack Developer. Las tecnologías con los que he trabajado en el desarrollo de aplicaciones web son: JavaScript, TypeScript, React Js, Node JS, Redux, Express, Next JS, PHP, Laravel, CodeIgniter, Python, FastApi, Django, Flask. También tengo experiencia en base de datos como PostgreSQL, MySQL, SQL Server, MariaDB y MongoDB. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
+#### Soy Samuel Bocanegra, Ingeniero de Sistemas e Informático con más de 5 años de experiencia como FullStack Developer. Las tecnologías con los que he trabajado en el desarrollo de aplicaciones web son: JavaScript, TypeScript, React Js, Node JS, Redux, Express, Next JS, PHP, Laravel, CodeIgniter, Python, FastAPI. También tengo experiencia en base de datos como PostgreSQL, Oracle, MySQL, SQL Server, MariaDB y MongoDB. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
 
 ## Tecnologías
 
