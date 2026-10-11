@@ -1,9 +1,19 @@
-# ¡Hola! 👋
-#### Soy Samuel Bocanegra, Ingeniero de Sistemas e Informático con más de 5 años de experiencia como FullStack Developer. Las tecnologías con los que he trabajado en el desarrollo de aplicaciones web son: JavaScript, TypeScript, React Js, Node JS, Redux, Express, Next JS, PHP, Laravel, CodeIgniter, Python, FastAPI. También tengo experiencia en base de datos como PostgreSQL, Oracle, MySQL, SQL Server, MariaDB y MongoDB. A continuación, te proporciono información sobre mis habilidades, proyectos y cómo puedes contactarme:
+<p align="right">
+  🇺🇸 <strong>English</strong> | <a href="README.es.md">🇪🇸 Español</a>
+</p>
 
-## Tecnologías
+# Hi, I'm Samuel Bocanegra 👋
+I'm a Systems and Computer Engineering professional with over 5 years of experience in software development, database administration, and technology infrastructure.
 
-### Lenguajes de Programación
+My experience spans full-stack and backend development using JavaScript, TypeScript, React, Node.js, Next.js, PHP, Laravel, CodeIgniter, Python, and FastAPI. I also have experience managing relational and NoSQL databases, including Oracle Database, PostgreSQL, MySQL, SQL Server, MariaDB, and MongoDB.
+
+I work with containerization, deployment, and event-streaming technologies such as Docker, Kubernetes, Apache Kafka, and Redpanda. I also build backend solutions using SQLAlchemy and Go with Fiber.
+
+I'm passionate about designing scalable architectures, automating processes, and building technology solutions that solve real-world problems by combining software engineering, data management, and infrastructure.
+
+## Technologies
+
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,7 +31,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber%20v3-00ACD7?style=flat&logo=go&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -29,7 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### Herramientas
+### Tools
 ![WordPress](https://img.shields.io/badge/-DIVI%20WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-311C87?style=flat&logo=apollographql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -53,7 +63,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white)
 
-### 📦 Paqueterías y Dependencias
+### 📦 Package Managers & Dependencies
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![pip](https://img.shields.io/badge/-pip-3775A9?style=flat&logo=pypi&logoColor=white)
@@ -62,7 +72,7 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat&logo=trello&logoColor=white)
 
-### 💻 Sistemas Operativos
+### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
@@ -75,10 +85,56 @@
 ### 📚 LMS
 - ![Moodle](https://img.shields.io/badge/-Moodle-F98400?style=flat&logo=moodle&logoColor=white)
 
-## Habilidades:
-- Metodología | Scrum.
+## Skills:
+- Methodology | Scrum.
 - Project Management | Slack & Trello.
 
-## 📬 Contactame:
+## 🚀 Featured Projects
+
+### 🏢 BIJAO — Integrated Technology Infrastructure Management System
+A platform designed to centralize the management of enterprise technology assets and infrastructure. It provides inventory capabilities for servers, databases, IP addresses, networks, and infrastructure components, along with monitoring, network topology visualization, access control, and iTop integration. Its goal is to improve asset traceability, organization, and visibility across technology environments.
+
+**Technologies:** FastAPI, Python, Next.js, React, TypeScript, Oracle Database, SQLAlchemy, and Docker.
+
+### ☁️ Kore — Server Management & Deployment Platform
+A lightweight, self-hosted platform for server administration, application deployment, and DevOps automation. Designed to run efficiently on resource-constrained servers, Kore centralizes infrastructure management, CI/CD, monitoring, networking, and security in a unified interface.
+
+**Technologies:** Go, Fiber v3, Next.js, TypeScript, PostgreSQL, Docker, and Traefik.
+
+### 🧾 CloudFact — Electronic Invoicing SaaS Platform
+A SaaS electronic invoicing platform designed for the Peruvian market, targeting restaurants, point-of-sale (POS) systems, e-commerce platforms, and enterprise applications. It provides REST API integration and automates the issuance, submission, and tracking of electronic invoices and receipts through SUNAT, Peru's tax authority.
+
+Its multi-tenant architecture supports Freemium, Shared, and Isolated database deployment models, with data isolation strategies, connection pooling, and intelligent scaling mechanisms to optimize database resource utilization as demand changes.
+
+CloudFact integrates **Nimbus**, a custom Go-based component for process orchestration and resilient invoicing operations. It also includes a custom shopping cart library designed to integrate with the platform's commerce workflows.
+
+The platform features end-to-end observability using Prometheus, Grafana, and Jaeger for metrics collection, performance visualization, and distributed tracing.
+
+**Technologies:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, SQLAlchemy, Redis, Docker, Prometheus, Grafana, Jaeger, and Go.
+
+**Technical Focus:** Multi-tenant SaaS architecture, electronic invoicing, asynchronous processing, observability, system integration, database resource management, and reusable software components.
+
+### 🤝 HubService — B2B Technology Services Platform
+A B2B platform that connects technology specialists with businesses to facilitate the engagement and management of professional services. It features real-time chat, hourly support sessions, and an automated timer that pauses when the support window is closed, helping track the time spent delivering each service.
+
+The platform integrates with Microsoft Teams to support enterprise collaboration and includes contract management, service tracking, and evidence management capabilities. It uses Redpanda for messaging and asynchronous event processing, alongside **Nimbus**, a lightweight Go-based engine for process orchestration and automation, designed to improve operational resilience and the continuity of SUNAT integrations.
+
+**Technologies:** Next.js, TypeScript, FastAPI, Redpanda, Go, Fiber, Docker, Microsoft Teams, Culqi, and Stripe.
+
+**Technical Focus:** Event-driven architecture, real-time communication, session management, billable time tracking, enterprise integrations, automation, and operational resilience.
+
+## 🛠️ Areas of Expertise
+- **Software Development:** Full-stack web applications, REST APIs, and backend services.
+- **Database Engineering:** Relational and NoSQL database design, querying, integration, and administration.
+- **Technology Infrastructure:** Server administration, operating systems, and enterprise technology resources.
+- **DevOps and Deployment:** Containerization, automation, and application lifecycle management.
+- **Modern Architectures:** Multi-tenant systems, service integration, and event-driven processing.
+
+## 📚 Continuous Learning
+I'm continually expanding my knowledge of artificial intelligence, natural language processing (NLP), software architecture, automation, and scalable infrastructure.
+
+## 📫 Contact
+Feel free to explore my repositories to learn more about my projects, technical skills, and the solutions I build.
+
 - ✉️ samuel.bocanegrad@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin/)   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario-github)
