@@ -1,6 +1,10 @@
-<p align="right">
-  🇺🇸 <strong>English</strong> | <a href="README.es.md">🇪🇸 Español</a>
+ <p align="right">
+  <a href="README.md"><strong>🇺🇸 English</strong></a>
+  &nbsp;|&nbsp;
+  <a href="README.es.md">🇪🇸 Español</a>
 </p>
+
+---
 
 # Hi, I'm Samuel Bocanegra 👋
 I'm a Systems and Computer Engineering professional with over 5 years of experience in software development, database administration, and technology infrastructure.
