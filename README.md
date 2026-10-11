@@ -139,6 +139,20 @@ The platform integrates with Microsoft Teams to support enterprise collaboration
 
 **Technical Focus:** Event-driven architecture, real-time communication, session management, billable time tracking, enterprise integrations, automation, and operational resilience.
 
+### 🦟 Dengue Prediction System — Epidemiological Analytics & Machine Learning
+
+A web-based epidemiological analytics and forecasting system focused on dengue cases in the San Martín region of Peru. The platform combines descriptive dashboards, geographic and demographic analysis, mortality statistics, and machine learning-based forecasting to support epidemiological monitoring and data-driven decision-making.
+
+**Key features:**
+- **Temporal Analysis:** Historical trends by year and epidemiological week.
+- **Geospatial Analytics:** Case distribution by province and district.
+- **Demographic & Mortality Analysis:** Population-level breakdowns and dengue mortality statistics.
+- **Machine Learning Forecasting:** Province-level and district-level predictions up to five weeks ahead using Random Forest models.
+- **Prediction Uncertainty:** Forecast intervals and comparative visualizations of previous years, current cases, and predicted trends.
+- **Data Management:** Bulk Excel/CSV imports, input validation, standardized templates, and advanced epidemiological filters.
+
+**Technologies:** Next.js 14, TypeScript, React, React Bootstrap, ApexCharts, FastAPI, Microsoft SQL Server, and Random Forest.
+
 ## 🛠️ Areas of Expertise
 - **Software Development:** Full-stack web applications, REST APIs, and backend services.
 - **Database Engineering:** Relational and NoSQL database design, querying, integration, and administration.
