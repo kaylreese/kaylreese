@@ -94,10 +94,21 @@ Me apasiona diseñar arquitecturas escalables, automatizar procesos y construir 
 - **Gestión de proyectos:** planificación y coordinación mediante herramientas como Slack y Trello.
 
 ## 🚀 Proyectos destacados
-### 🏢 BIJAO — Sistema Integrado de Gestión de Infraestructura Tecnológica
-Plataforma diseñada para centralizar la gestión de activos tecnológicos e infraestructura empresarial. Incluye inventario de servidores, bases de datos, direcciones IP, redes y componentes de infraestructura, además de monitoreo, visualización de topología de red, control de accesos e integración con iTop.
+### 🏛️ SIGIT — Sistema Nacional de Gestión de Infraestructura Tecnológica
+Plataforma integral diseñada para administrar la infraestructura tecnológica de una organización pública de gran escala, con presencia en múltiples sedes a nivel nacional. SIGIT centraliza la gestión de activos tecnológicos, servidores, bases de datos, direccionamiento IP, redes y topología de infraestructura.
 
-**Tecnologías:** FastAPI, Python, Next.js, React, TypeScript, Oracle Database, SQLAlchemy y Docker.
+**Principales funcionalidades:**
+
+- **Descubrimiento de Red y Barridos Programables:** Escaneo automatizado de redes para identificar hosts alcanzables, supervisar la disponibilidad de direcciones IP y detectar discrepancias entre los dispositivos descubiertos y el inventario registrado.
+- **Gestión de Layout del CPD:** Importación de planos en PDF y generación de layouts con posicionamiento preciso de los racks. Permite actualizar su ubicación cuando se producen cambios en la distribución física del centro de datos.
+- **Mapeo de Clústeres Físicos y Virtuales:** Gestión y visualización de clústeres físicos y virtuales, junto con sus relaciones con la infraestructura asociada.
+- **Gestión de Infraestructura y Activos:** Administración centralizada de servidores, bases de datos, activos de red, contratos, licencias de software, certificados digitales, aplicaciones, proyectos y servicios de TI.
+- **Mapeo de Dependencias de Aplicaciones:** Relaciones entre aplicaciones, servidores y bases de datos para mejorar la trazabilidad y visibilidad de la infraestructura.
+- **Monitoreo y Trazabilidad Histórica:** Supervisión de la infraestructura, historial de activos y seguimiento de cambios operativos.
+- **Integración con iTop:** Interoperabilidad con una plataforma de gestión de servicios de TI y configuración de activos.
+- **Control de Acceso Granular basado en Roles (RBAC):** Permisos detallados y configurables por módulo y acción.
+
+**Tecnologías:** Python, FastAPI, Next.js, React, TypeScript, Oracle Database 19c, SQLAlchemy y Docker.
 
 ### ☁️ Kore — Plataforma de Gestión de Servidores y Despliegues
 Plataforma ligera y autohospedada para administrar servidores, desplegar aplicaciones y automatizar procesos DevOps. Diseñada para funcionar eficientemente en servidores con recursos limitados, centraliza la gestión de infraestructura, CI/CD, monitoreo, redes y seguridad en una sola interfaz.
