@@ -95,10 +95,22 @@ I'm passionate about designing scalable architectures, automating processes, and
 
 ## 🚀 Featured Projects
 
-### 🏢 BIJAO — Integrated Technology Infrastructure Management System
-An integrated platform designed to manage IT infrastructure at a national scale for a large public-sector organization. BIJAO centralizes the management of technological assets, servers, databases, IP address spaces, networks, and infrastructure topology across multiple sites. It provides infrastructure inventory, monitoring, access control, historical traceability, and integration with iTop to improve operational visibility and infrastructure management.
+### 🏛️ SIGIT — National IT Infrastructure Management System
 
-**Technologies:** FastAPI, Python, Next.js, React, TypeScript, Oracle Database, SQLAlchemy, and Docker.
+An integrated platform designed to manage IT infrastructure at a national scale for a large public-sector organization operating across multiple sites. SIGIT centralizes the management of technological assets, servers, databases, IP address spaces, networks, and infrastructure topology.
+
+**Key capabilities include:**
+
+- **Network Discovery & Scheduled Sweeps:** Automated network scanning to identify reachable hosts, monitor IP address availability, and detect discrepancies between discovered devices and registered inventory.
+- **Data Center Layout Management:** Import CPD floor plans from PDF files and create spatial layouts with precise rack positioning. Rack locations can be updated as the physical infrastructure changes.
+- **Physical & Virtual Cluster Mapping:** Management and visualization of physical and virtual clusters and their associated infrastructure relationships.
+- **Infrastructure & Asset Management:** Centralized management of servers, databases, network assets, contracts, software licenses, digital certificates, applications, projects, and IT services.
+- **Application Dependency Mapping:** Relationships between applications, servers, and databases to improve infrastructure traceability and visibility.
+- **Monitoring & Historical Tracking:** Infrastructure monitoring, asset history, and operational traceability.
+- **iTop Integration:** Integration with an IT service management and configuration management platform.
+- **Granular Role-Based Access Control (RBAC):** Fine-grained permissions configured at both the module and action levels.
+
+**Technologies:** Python, FastAPI, Next.js, React, TypeScript, Oracle Database 19c, SQLAlchemy, and Docker.
 
 ### ☁️ Kore — Server Management & Deployment Platform
 A lightweight, self-hosted platform for server administration, application deployment, and DevOps automation. Designed to run efficiently on resource-constrained servers, Kore centralizes infrastructure management, CI/CD, monitoring, networking, and security in a unified interface.
