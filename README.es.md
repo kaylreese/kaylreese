@@ -137,6 +137,20 @@ Integra Microsoft Teams para la colaboración empresarial e incorpora gestión d
 
 **Enfoque técnico:** arquitectura orientada a eventos, comunicación en tiempo real, gestión de sesiones, control de horas facturables, integraciones empresariales y automatización.
 
+### 🦟 Sistema de Predicción de Dengue — Analítica Epidemiológica y Machine Learning
+
+Sistema web de análisis epidemiológico y predicción de casos de dengue para la región San Martín, Perú. Integra dashboards descriptivos, análisis geográfico y demográfico, estadísticas de mortalidad y modelos de Machine Learning para apoyar la vigilancia epidemiológica y la toma de decisiones basada en datos.
+
+**Principales funcionalidades:**
+- **Análisis temporal:** Tendencias históricas por año y semana epidemiológica.
+- **Análisis geográfico:** Distribución de casos por provincia y distrito.
+- **Análisis demográfico y mortalidad:** Distribución poblacional y estadísticas de fallecimientos por dengue.
+- **Predicción mediante Machine Learning:** Pronósticos provinciales y distritales hasta cinco semanas adelante mediante modelos Random Forest.
+- **Incertidumbre de las predicciones:** Intervalos de predicción y comparativas entre años anteriores, casos del año actual y tendencias pronosticadas.
+- **Gestión de datos:** Carga masiva de archivos Excel/CSV, validación, plantillas estandarizadas y filtros epidemiológicos avanzados.
+
+**Tecnologías:** Next.js 14, TypeScript, React, React Bootstrap, ApexCharts, FastAPI, Microsoft SQL Server y Random Forest.
+
 ## 🛠️ Áreas de especialización
 - **Desarrollo de software:** aplicaciones web full-stack, API REST y servicios backend.
 - **Ingeniería de datos y bases de datos:** diseño, consultas, integración y administración de bases de datos relacionales y NoSQL.
