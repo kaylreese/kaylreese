@@ -94,7 +94,7 @@ Me apasiona diseñar arquitecturas escalables, automatizar procesos y construir 
 - **Gestión de proyectos:** planificación y coordinación mediante herramientas como Slack y Trello.
 
 ## 🚀 Proyectos destacados
-### 🏛️ SIGIT — Sistema Nacional de Gestión de Infraestructura Tecnológica
+### 🏛️ SIGIT — Sistema de Gestión de Infraestructura Tecnológica
 Plataforma integral diseñada para administrar la infraestructura tecnológica de una organización pública de gran escala, con presencia en múltiples sedes a nivel nacional. SIGIT centraliza la gestión de activos tecnológicos, servidores, bases de datos, direccionamiento IP, redes y topología de infraestructura.
 
 **Principales funcionalidades:**
