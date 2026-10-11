@@ -96,7 +96,7 @@ I'm passionate about designing scalable architectures, automating processes, and
 ## 🚀 Featured Projects
 
 ### 🏢 BIJAO — Integrated Technology Infrastructure Management System
-A platform designed to centralize the management of enterprise technology assets and infrastructure. It provides inventory capabilities for servers, databases, IP addresses, networks, and infrastructure components, along with monitoring, network topology visualization, access control, and iTop integration. Its goal is to improve asset traceability, organization, and visibility across technology environments.
+An integrated platform designed to manage IT infrastructure at a national scale for a large public-sector organization. BIJAO centralizes the management of technological assets, servers, databases, IP address spaces, networks, and infrastructure topology across multiple sites. It provides infrastructure inventory, monitoring, access control, historical traceability, and integration with iTop to improve operational visibility and infrastructure management.
 
 **Technologies:** FastAPI, Python, Next.js, React, TypeScript, Oracle Database, SQLAlchemy, and Docker.
 
