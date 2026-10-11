@@ -1,6 +1,10 @@
 <p align="right">
-  <a href="README.md">🇺🇸 English</a> | 🇵🇪 <b>Español</b>
+  <a href="README.md">🇺🇸 English</a>
+  &nbsp;|&nbsp;
+  <a href="README.es.md"><strong>🇪🇸 Español</strong></a>
 </p>
+
+---
 
 # ¡Hola, soy Samuel Bocanegra! 👋
 Soy profesional de Ingeniería de Sistemas e Informática, con más de 5 años de experiencia en desarrollo de software, administración de bases de datos e infraestructura tecnológica.
